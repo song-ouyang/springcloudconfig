@@ -1,0 +1,2 @@
+用于连接github上的springcloud的一些公共配置
+
